@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  samba:
+    repository: /SpCoGov/addon-adguard-home
+    target: samba
+    image: ghcr.io/hassio-addons/adguard/{arch}
