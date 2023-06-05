@@ -1,1 +1,1 @@
-{ForgeCaps:{"astralsorcery:cap_item_amulet_holder":{}},id:"resize:strong_shrinking",Count:1,Damage:0s} 1
+{id:"minecraft:potion",Count:1,tag:{Potion:"resize:strong_shrinking"},Damage:0s} 1
